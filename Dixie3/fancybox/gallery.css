@@ -1,0 +1,36 @@
+/* Gallery CSS */
+/* body,select,table,input,textarea{font-family:Tahoma,Segoe UI,Arial;font-size:small;}
+
+body{
+  margin:0px;
+  padding:0px;
+  background-color:#333;
+  background-image:url('bg-3331.gif');
+  background-repeat:repeat;
+}
+
+.content{
+  margin:0px;
+  padding:0px;
+}
+ */
+
+.each-picture{
+  overflow:hidden;
+  display:inline-block;
+  vertical-align:top;
+  border:10px solid transparent;
+  background-color:transparent;
+  text-align:center;
+  padding:0px;
+  margin:5px;
+  width:150px;
+  height:150px;
+}
+
+
+.each-picture a img{
+  width:150px;
+  height:150px;
+  display:inline-block;
+}

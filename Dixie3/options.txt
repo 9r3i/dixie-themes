@@ -1,0 +1,7 @@
+header-name===
+header-image===
+background-image===
+background-repeat===yes
+background-position===fixed
+sidebar-title===yes
+post-per-page===50
