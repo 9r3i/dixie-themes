@@ -1,7 +1,7 @@
 Theme Name  === Dixie 3 (Default)
 Theme URI   === https://github.com/9r3i/themes/tree/master/Dixie3
 Author      === Luthfie
-Author URI  === http://n8ro.hol.es/?id=profile
+Author URI  === http://luthfie.hol.es/?id=profile
 Version     === 3.0
 Description === This is the default theme for Dixie CMS.\nYou can modify by using your own name.\nBut I wish you can make the theme better than me. :)
 ScreenShot  === images/screenshot.jpg
