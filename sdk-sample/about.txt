@@ -1,0 +1,7 @@
+Theme Name  === Theme Sample with SDK
+Theme URI   === https://github.com/9r3i/themes/tree/master/sdk-sample
+Author      === Luthfie
+Author URI  === http://luthfie.hol.es/?id=profile
+Version     === 1.0
+Description === This is the sample theme for Dixie CMS by using SDK.\nYou can modify by using your own name and code.\nBut I wish you can make the theme better than me. :)
+ScreenShot  === images/screenshot.jpg

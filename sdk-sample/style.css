@@ -1,0 +1,298 @@
+/* SDK-Sample Theme
+ * Authored by Luthfie a.k.a. 9r3i
+ * luthfie@y7mail.com
+ * filename: style.css
+ */
+
+/* font family, size and color */
+body,table,input,textarea,button,select,div{
+  font-family:Segoe UI,Tahoma,Arial;
+  font-size:medium;
+  color:#333;
+}
+
+/* body */
+body{
+  margin:0px;
+  padding:0px;
+  background-color:#7bf;
+}
+a{color:#37b;text-decoration:none;}
+a:hover{color:#59d;}
+::-moz-selection{
+  background:#bdf;
+  color:#333;
+}
+::selection{
+  background:#bdf;
+  color:#333;
+}
+
+/* #content */
+#content{
+  margin:20px auto;
+  padding:0px;
+  width:800px;
+  background-color:#fff;
+  min-height:300px;
+  border-radius:10px;
+  box-shadow:0px 0px 10px #fff;
+}
+
+/* header */
+header{margin:0px;padding:0px;}
+#header{
+  margin:20px;
+  padding:10px;
+  background-color:#59d;
+  border-radius:0px 0px 10px 10px;
+  box-shadow:0px 0px 10px #59d;
+}
+#header h1{color:#fff;text-align:center;}
+#header h1 a{color:#fff;}
+
+/* nav menu */
+nav{margin:0px;padding:0px;}
+#menu{
+  background-color:#59d;
+  padding:0px 20px;
+  margin:20px -20px;
+  border-radius:10px;
+  box-shadow:0px 0px 10px #7bf;
+}
+
+/* footer */
+footer{margin:0px;padding:0px;}
+#footer{
+  margin:20px;
+  padding:10px;
+  background-color:#59d;
+  border-radius:10px 10px 0px 0px;
+  box-shadow:0px 0px 10px #59d;
+}
+#copyright{color:#fff;text-align:center;}
+#copyright a{color:#fff;}
+
+/* content */
+.content{
+  margin:0px;
+  padding:0px 10px;
+}
+
+/* #sidebar */
+#sidebar{
+  margin:0px;
+  padding:0px 5px;
+  display:inline-block;
+  vertical-align:top;
+  width:205px;
+}
+
+/* #body */
+#body{
+  margin:0px;
+  padding:0px 5px;
+  display:inline-block;
+  vertical-align:top;
+  width:550px;
+  min-height:300px;
+}
+
+.clist{
+  padding:0px 0px 10px;
+  margin:0px 0px 10px 0px;
+  box-shadow:0px 0px 10px #59d;
+  border-radius:10px;
+}
+.clist-title{
+  background-color:#59d;
+  color:#fff;
+  padding:10px;
+  margin:0px 0px 0px;
+  border-radius:10px 10px 0px 0px;
+  font-weight:bold;
+}
+.clist-title h2{margin:0px;}
+.clist-content{
+  margin:0px;
+  padding:10px;
+}
+.clist-detail{
+  background-color:#bdf;
+  margin:0px;
+  padding:7px;
+  font-size:90%;
+}
+
+
+/* ---------- SEARCH RESULT ---------- */
+.search-result{
+  margin:-1px 0px 0px;
+  padding:10px 15px;
+  border-top:1px solid #bbb;
+  border-bottom:1px solid #bbb;
+}
+.search-result:hover{
+  background-color:#bdf;
+}
+
+
+
+/* ---------- INDEX POSTS ---------- */
+.dixie-posts{}
+.post-navigator{}
+.post-navigator-next{
+  background-color:#59d;
+  padding:10px 20px;
+  margin:0px;
+  border-radius:10px;
+  box-shadow:0px 0px 10px #7bf;
+  color:#fff;
+  text-align:center;
+  font-weight:bold;
+}
+.post-navigator-next:hover{
+  background-color:#48c;
+}
+
+.each-post{
+  padding:0px 0px 10px;
+  margin:0px 0px 10px 0px;
+  box-shadow:0px 0px 10px #59d;
+  border-radius:10px;
+}
+.each-post-title{
+  background-color:#59d;
+  color:#fff;
+  padding:10px;
+  margin:0px 0px 0px;
+  border-radius:10px 10px 0px 0px;
+  font-weight:bold;
+}
+.each-post-title:hover{
+  background-color:#48c;
+}
+.each-post-title a{color:#fff;}
+.each-post-title a h3{margin:0px;}
+
+.data-post{}
+.data-article{}
+.data-page{}
+.data-product{}
+.data-event{}
+.data-training{}
+.data-schedule{}
+
+.each-post-detail{
+  margin:0px;
+  padding:7px;
+  background-color:#bdf;
+  font-size:90%;
+}
+.each-post-detail-push{}
+
+.each-post-content{
+  margin:0px;
+  padding:10px;
+}
+.each-post-content span{}
+.each-post-content a{}
+
+
+/* ---------- MENU ---------- */
+.menu-list{}
+.menu-list-top{
+  margin:0px;
+  padding:11px 15px;
+  color:#fff;
+  display:inline-block;
+}
+.menu-list-top:hover{
+  background-color:#48c;
+}
+.menu-list-sidebar{}
+.menu-list-bottom{}
+
+
+/* ---------- SIDEBAR ---------- */
+.sidebar-each{
+  padding:0px 0px 10px;
+  margin:0px 0px 10px;
+  box-shadow:0px 0px 10px #59d;
+  border-radius:10px;
+}
+.sidebar-each-title{
+  background-color:#59d;
+  color:#fff;
+  padding:10px;
+  margin:0px 0px 5px;
+  border-radius:10px 10px 0px 0px;
+  font-weight:bold;
+}
+.sidebar-each-content{
+  margin:0px;
+  padding:5px;
+}
+.sidebar-each-list{
+  margin:0px;
+  padding:5px 10px;
+}
+.sidebar-each-list:hover{
+  background-color:#bdf;
+}
+.sidebar-each-list:before{
+  content:"~";
+  margin-right:3px;
+  height:auto;
+}
+.sidebar-each-input{
+  border:1px solid #999;
+  margin:5px 10px;
+  padding:5px;
+  width:163px;
+}
+.sidebar-each-submit{
+  border:0px none;
+  margin:5px 10px;
+  padding:5px 9px;
+  color:#fff;
+  background-color:#59d;
+}
+.sidebar-each-submit:hover{
+  background-color:#48c;
+}
+
+/* ---------- SIDEBAR DETAIL ---------- */
+.sidebar-text{}
+.sidebar-text-title{}
+.sidebar-text-content{}
+
+.sidebar-menu{}
+.sidebar-menu-title{}
+.sidebar-menu-content{}
+
+.sidebar-recent{}
+.sidebar-recent-title{}
+.sidebar-recent-content{}
+.sidebar-recent-list{}
+
+.sidebar-meta{}
+.sidebar-meta-title{}
+.sidebar-meta-content{}
+.sidebar-meta-list{}
+
+.sidebar-category{}
+.sidebar-category-title{}
+.sidebar-category-content{}
+.sidebar-category-list{}
+
+.sidebar-search{}
+.sidebar-search-title{}
+.sidebar-search-content{}
+.sidebar-search-left{}
+.sidebar-search-right{}
+.sidebar-search-input{}
+.sidebar-search-submit{}
+
+
+

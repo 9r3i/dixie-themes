@@ -1,0 +1,90 @@
+/* Dixie Theme SDK (Software Development Kit)
+ * Authored by Luthfie a.k.a. 9r3i
+ * luthfie@y7mail.com
+ * version: 1.00
+ * filename: dt_default_style.css
+ */
+
+
+
+
+
+
+/* ---------- SEARCH RESULT ---------- */
+.search-result{}
+.search-result:hover{}
+
+/* ---------- INDEX POSTS ---------- */
+.dixie-posts{}
+.post-navigator{}
+.post-navigator-next{}
+
+.each-post{}
+.each-post-title{}
+.each-post-title a{}
+.each-post-title a h3{}
+
+.data-post{}
+.data-article{}
+.data-page{}
+.data-product{}
+.data-event{}
+.data-training{}
+.data-schedule{}
+
+.each-post-detail{}
+.each-post-detail-push{}
+
+.each-post-content{}
+.each-post-content span{}
+.each-post-content a{}
+
+/* ---------- MENU ---------- */
+.menu-list{}
+.menu-list-top{}
+.menu-list-sidebar{}
+.menu-list-bottom{}
+
+
+/* ---------- SIDEBAR ---------- */
+.sidebar-each{}
+.sidebar-each-title{}
+.sidebar-each-content{}
+.sidebar-each-list{}
+.sidebar-each-input{}
+.sidebar-each-submit{}
+
+/* ---------- SIDEBAR DETAIL ---------- */
+.sidebar-text{}
+.sidebar-text-title{}
+.sidebar-text-content{}
+
+.sidebar-menu{}
+.sidebar-menu-title{}
+.sidebar-menu-content{}
+
+.sidebar-recent{}
+.sidebar-recent-title{}
+.sidebar-recent-content{}
+.sidebar-recent-list{}
+
+.sidebar-meta{}
+.sidebar-meta-title{}
+.sidebar-meta-content{}
+.sidebar-meta-list{}
+
+.sidebar-category{}
+.sidebar-category-title{}
+.sidebar-category-content{}
+.sidebar-category-list{}
+
+.sidebar-search{}
+.sidebar-search-title{}
+.sidebar-search-content{}
+.sidebar-search-left{}
+.sidebar-search-right{}
+.sidebar-search-input{}
+.sidebar-search-submit{}
+
+
+

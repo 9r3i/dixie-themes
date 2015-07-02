@@ -1,0 +1,62 @@
+/* Dixie Theme SDK (Software Development Kit)
+ * Authored by Luthfie a.k.a. 9r3i
+ * luthfie@y7mail.com
+ * version: 1.00
+ * filename: dtsdk.php
+ */
+
+--- ONLY PRINT STRING ---
+* single parameter => $print
+* BOOL: true/false => default: true
+
+dt_www
+
+dt_site_name
+dt_site_description
+dt_site_keywords
+dt_robots
+dt_timezone
+dt_theme
+dt_mobile_theme
+dt_msie_theme
+dt_main_page
+
+dt_post ($key,$print)
+    $key = key of post array => default: null
+    $print = true/false => default: true
+
+dt_post_title
+dt_post_content
+dt_post_author
+dt_post_detail
+
+dt_title
+dt_header
+
+dt_header_set ($headset)
+    $headset = array() => keys: content-type,compatible,viewport,title,description,keywords,robots
+
+dt_menu ($type,$print)
+    $type = top/sidebar/bottom => default: top
+    $print = true/false => default: true
+
+dt_sidebar
+
+dt_footer ($print,$set)
+    $print = true/false => default: true
+    $set = string => string of footer content
+
+dt_index ($per,$ppp)
+    $per = true/false => default: true
+    $ppp = post per page => default: 10
+
+dt_result
+
+
+
+
+
+
+
+
+
