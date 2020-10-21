@@ -1,0 +1,7 @@
+Theme Name  === Maintain
+Theme URI   === https://github.com/9r3i/themes/maintain
+Author      === 9r3i
+Author URI  === https://github.com/9r3i
+Version     === 1.0
+Description === Maintenance Mode
+ScreenShot  === screenshot.png
