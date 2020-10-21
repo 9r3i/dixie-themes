@@ -1,5 +1,5 @@
 Theme Name  === Maintain
-Theme URI   === https://github.com/9r3i/themes/maintain
+Theme URI   === https://github.com/9r3i/dixie-themes
 Author      === 9r3i
 Author URI  === https://github.com/9r3i
 Version     === 1.0
